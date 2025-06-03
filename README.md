@@ -6,7 +6,7 @@
     <img src="https://ghchart.rshah.org/lhzkml2512" />
 </p>
 
-忽然撞着来时路 始觉平生被眼瞒
+忽然撞着来时路 始觉平生被眼瞒！
 # 谁能凭爱意要富士山私有
 <a href="mailto:lufei@php.net"><img src="https://img.shields.io/badge/Email-hekailiu@foxmail.com-blue?logo=gmail" alt="Email" /></a>
 
