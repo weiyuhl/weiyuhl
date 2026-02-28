@@ -12,10 +12,18 @@
 
 ## 📈 Stats
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weiyuhl&theme=tokyonight" alt="Shagor's github stats" width="100%">
-<div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=weiyuhl&theme=tokyonight&include_all_commits=true" alt="Shagor's github stats" width="45%" height="100%">
-<img src="https://github-readme-stats-seatonjiang.vercel.app/api/top-langs/?username=weiyuhl&hide_title=true&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical#gh-dark-mode-only" alt="Shagor's github stats" width="53%" height="100%">
-</div>
-
 <div align="center">time will tell</div>
+
+## ✨ More Cool Animations
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Keep+Moving+Forward+%F0%9F%9A%80;Code.+Create.+Repeat.+%E2%9C%A8;Welcome+to+my+GitHub+Universe+%F0%9F%8C%8C" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8A2BE2,100:00C9FF&section=footer&reversal=true" alt="Wave animation" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</p>
