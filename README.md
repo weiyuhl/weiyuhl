@@ -19,3 +19,17 @@
 </div>
 
 <div align="center">time will tell</div>
+
+## ✨ More Cool Animations
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Keep+Moving+Forward+%F0%9F%9A%80;Code.+Create.+Repeat.+%E2%9C%A8;Welcome+to+my+GitHub+Universe+%F0%9F%8C%8C" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8A2BE2,100:00C9FF&section=footer&reversal=true" alt="Wave animation" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</p>
